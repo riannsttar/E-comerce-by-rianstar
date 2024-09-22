@@ -1,0 +1,12 @@
+.name {
+    background-color: aqua;
+    font-size: 5rem;
+    margin: 1.8rem;
+    align-items: center;
+}
+
+.name span {
+    background-color: blue;
+    font-size: 5rem;
+    margin: 1.8rem;
+}
