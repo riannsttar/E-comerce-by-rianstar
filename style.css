@@ -1,15 +1,19 @@
-h1 {
+body {
+    background-color: black;
+}
+
+header h1 {
     background-color: aqua;
     font-size: 5rem;
     margin: 1.8rem;
-    align-items: center;
+    text-align: center;
     color: white;
 }
 
-span {
+header span {
     background-color: blue;
     font-size: 5rem;
     margin: 1.8rem;
-    align-items: center;
+    text-align: center;
     color: white;
 }
